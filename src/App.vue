@@ -16,7 +16,7 @@ export default {
       sliderWidth: 720,
       sliderHeight: 430,
       intervalTijd: 5000,
-    }
+    },
   },
   components: {
     Slider,
